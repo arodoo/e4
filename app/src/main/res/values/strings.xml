@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rocs</string>
+
+    <string name="comenzar_btn">Comenzar</string>
+    <string name="configuracion_btn">Ajustes</string>
+    <string name="otros_btn">Otras aplicaciones</string>
+    <string name="comprame_cafe_btn">Cómprame un pay de queso</string>
+    <string name="titulo_txt">Asteroides :D</string>
+</resources>

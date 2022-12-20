@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rocs
+    </string>
+
+    <string name="comenzar_btn">Start</string>
+    <string name="configuracion_btn">Settings</string>
+    <string name="otros_btn">Other apps</string>
+    <string name="comprame_cafe_btn">Buy me a cheese pie</string>
+    <string name="titulo_txt">Asteroids :D</string>
+</resources>
